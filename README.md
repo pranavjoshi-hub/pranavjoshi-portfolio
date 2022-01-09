@@ -23,7 +23,7 @@ My data science portfolio
 * Stored the data in a remote MongoDB database.
 * Built a sentiment analysis dashboard.
 
-![](https://https://github.com/pranavjoshi-hub/pranavjoshi-portfolio/blob/main/images/dashboard_screenshot.PNG)
+![](https://github.com/pranavjoshi-hub/pranavjoshi-portfolio/blob/main/images/dashboard_screenshot.PNG)
 
 ## [Project 4: COVID-19 Dashboard](git@github.com:pranavjoshi-hub/covid19-dashboard.git)
 * Built a COVID-19 dashboard using Power BI.
