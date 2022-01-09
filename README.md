@@ -14,7 +14,7 @@ My data science portfolio
 * Created a COVID-19 dashboard using Tableau.
 * Data was last updated on January 5, 2022.
 
-![](https://github.com/pranavjoshi-hub/pranavjoshi-portfolio/blob/main/images/dashboard.PNG)
+![](images/dashboard.PNG)
 
 ## [Project 3: Consumer Review Sentiment Analysis for Fast Food Chains](git@github.com:pranavjoshi-hub/fast-food-chain-reviews.git)
 * Scraped consumer reviews for Subway, McDonald's and Burger King.
@@ -23,11 +23,11 @@ My data science portfolio
 * Stored the data in a remote MongoDB database.
 * Built a sentiment analysis dashboard.
 
-![](https://github.com/pranavjoshi-hub/pranavjoshi-portfolio/blob/main/images/dashboard_screenshot.PNG)
+![](/images/dashboard_screenshot.PNG)
 
 ## [Project 4: COVID-19 Dashboard](git@github.com:pranavjoshi-hub/covid19-dashboard.git)
 * Built a COVID-19 dashboard using Power BI.
 * Dashboard displays updated worldwide statistics for COVID-19.
 * Data was last updated on April 2, 2021.
 
-![](https://github.com/pranavjoshi-hub/pranavjoshi-portfolio/blob/main/images/dashboard_screenshot_powerbi.PNG)
+![](/images/dashboard_screenshot_powerbi.PNG)
