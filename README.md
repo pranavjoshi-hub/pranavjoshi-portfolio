@@ -29,3 +29,5 @@ My data science portfolio
 * Built a COVID-19 dashboard using Power BI.
 * Dashboard displays updated worldwide statistics for COVID-19.
 * Data was last updated on April 2, 2021.
+
+![](https://github.com/pranavjoshi-hub/pranavjoshi-portfolio/blob/main/images/dashboard_screenshot_powerbi.PNG)
