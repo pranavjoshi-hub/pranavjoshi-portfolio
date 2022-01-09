@@ -1,7 +1,7 @@
 # Pranav Joshi Portfolio
 My data science portfolio
 
-## [Project 1: Term Deposit Subscription Classifier] (git@github.com:pranavjoshi-hub/term-deposit-subscription-classifier.git)
+## [Project 1: Term Deposit Subscription Classifier](git@github.com:pranavjoshi-hub/term-deposit-subscription-classifier.git)
 Cleaned the data  
 Performed exploratory data analysis and some feature engineering  
 Optimized Logistic Regression & K-Nearest Neighbours using GridSearchCV to reach the best model  
