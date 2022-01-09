@@ -1,5 +1,7 @@
 # Pranav Joshi Portfolio
-My data science portfolio
+
+## My data science portfolio
+
 
 ## [Project 1: Term Deposit Subscription Classifier](https://github.com/pranavjoshi-hub/term-deposit-subscription-classifier.git)
 * Cleaned the data.    
